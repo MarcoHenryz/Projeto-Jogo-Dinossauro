@@ -1,0 +1,11 @@
+# Ambiente Virtual
+venv/
+*.py[cod]
+__pycache__/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do Pygame ou outros que você não queira versionar
+# (Adicione aqui se necessário, por exemplo, arquivos de log, builds temporários)
